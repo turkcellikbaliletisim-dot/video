@@ -1,0 +1,27 @@
+{
+  "name": "bayigo-animation-film",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BayiGo Market ve BayiGo Media icin tamamen animasyon tabanli tanitim filmi",
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "preview": "remotion preview src/index.ts",
+    "render": "remotion render src/index.ts BayiGoFilm export/bayigo-tanitim-filmi.mp4 --codec=h264",
+    "render:4k": "remotion render src/index.ts BayiGoFilm export/bayigo-tanitim-filmi-4k.mp4 --codec=h264 --width=3840 --height=2160",
+    "still": "remotion still src/index.ts BayiGoFilm export/kapak.png --frame=100",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.300",
+    "@remotion/google-fonts": "^4.0.300",
+    "@remotion/media-utils": "^4.0.300",
+    "remotion": "^4.0.300",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4"
+  }
+}
