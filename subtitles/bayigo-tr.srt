@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:09,000
+Dijitallesen dunyada, manuel surecler zaman ve kazanc kaybettirir.
+
+2
+00:00:09,000 --> 00:00:18,000
+Her geciken siparis ve eksik gorsel, kacan bir satis firsatidir.
+
+3
+00:00:18,000 --> 00:00:26,000
+BayiGo, bayi operasyonlarini tek dijital ekosistemde birlestirir.
+
+4
+00:00:26,000 --> 00:00:39,000
+BayiGo Market ile stok, fiyat ve siparis tek ekranda yonetilir.
+
+5
+00:00:39,000 --> 00:00:49,000
+Daha hizli siparis, daha dogru stok ve daha yuksek gelir.
+
+6
+00:00:49,000 --> 00:01:03,000
+BayiGo Media ile profesyonel gorsel ve videolar otomatik hazirlanir.
+
+7
+00:01:03,000 --> 00:01:12,000
+Ajans ve tekil uretim maliyetleri azalir.
+
+8
+00:01:12,000 --> 00:01:22,000
+TDM tum bayi agini tek merkezden yonetir.
+
+9
+00:01:22,000 --> 00:01:30,000
+Dijital dunyaya ayak uyduran ornek bir yapi kurulur.
+
+10
+00:01:30,000 --> 00:01:36,000
+BayiGo. Gelecegin bayi ekosistemi, bugun baslar.
