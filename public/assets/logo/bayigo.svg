@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300">
+  <rect width="960" height="300" rx="50" fill="#061A46"/>
+  <text x="75" y="205" font-family="Arial, sans-serif" font-size="170" font-weight="800" fill="#FFFFFF">Bayi</text>
+  <rect x="535" y="58" width="330" height="185" rx="42" fill="#FFD329"/>
+  <text x="575" y="205" font-family="Arial, sans-serif" font-size="150" font-weight="900" fill="#061A46">Go</text>
+</svg>
